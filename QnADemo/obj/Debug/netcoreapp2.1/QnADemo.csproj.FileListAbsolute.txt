@@ -1,0 +1,11 @@
+C:\Users\amanj\source\repos\QnADemo\QnADemo\bin\Debug\netcoreapp2.1\QnADemo.deps.json
+C:\Users\amanj\source\repos\QnADemo\QnADemo\bin\Debug\netcoreapp2.1\QnADemo.runtimeconfig.json
+C:\Users\amanj\source\repos\QnADemo\QnADemo\bin\Debug\netcoreapp2.1\QnADemo.runtimeconfig.dev.json
+C:\Users\amanj\source\repos\QnADemo\QnADemo\bin\Debug\netcoreapp2.1\QnADemo.dll
+C:\Users\amanj\source\repos\QnADemo\QnADemo\bin\Debug\netcoreapp2.1\QnADemo.pdb
+C:\Users\amanj\source\repos\QnADemo\QnADemo\obj\Debug\netcoreapp2.1\QnADemo.csprojAssemblyReference.cache
+C:\Users\amanj\source\repos\QnADemo\QnADemo\obj\Debug\netcoreapp2.1\QnADemo.csproj.CoreCompileInputs.cache
+C:\Users\amanj\source\repos\QnADemo\QnADemo\obj\Debug\netcoreapp2.1\QnADemo.AssemblyInfoInputs.cache
+C:\Users\amanj\source\repos\QnADemo\QnADemo\obj\Debug\netcoreapp2.1\QnADemo.AssemblyInfo.cs
+C:\Users\amanj\source\repos\QnADemo\QnADemo\obj\Debug\netcoreapp2.1\QnADemo.dll
+C:\Users\amanj\source\repos\QnADemo\QnADemo\obj\Debug\netcoreapp2.1\QnADemo.pdb
